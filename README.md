@@ -15,6 +15,10 @@ Ministrado por [Leonardo Uieda](http://www.leouieda.com/).
 
 ## Leitura recomendada
 
+* https://en.wikipedia.org/wiki/Least_squares
+* https://en.wikipedia.org/wiki/Linear_least_squares_%28mathematics%29
+* http://www.mat.ufmg.br/gaal/aplicacoes/quadrados_minimos.pdf
+* https://pt.wikipedia.org/wiki/M%C3%A9todo_dos_m%C3%ADnimos_quadrados
 
 ## Preparação
 
